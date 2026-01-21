@@ -1,2 +1,2 @@
 # Pinscape-Pico-Jr-24-Ch-LED-Driver-Board
-This 24 Ch LED Driver Board is an expansion board for the Pinscape Pico Jr.
+This 24 Ch LED Driver Board is an expansion board for the Pinscape Pico Jr.  This expansion board uses the expansion port on the Pinscape Pico Jr to recieve commands for turning the on each of the 24 channels.  This board also requires an external power supply of either or both 5V and 12V.  There are 16 LED driver outputs that are rated at .5A per each channel. There are also 8 more channels that are doubled up to provide 1A per channel.  This circuit is a modified version that was first authored by Michael J Roberts, as such the name Pinscape Pico applies.  
